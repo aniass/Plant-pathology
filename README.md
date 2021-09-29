@@ -8,6 +8,9 @@ The dataset comes from Kaggle competition (Plant Pathology 2020 - FGVC7) and can
 
 This project is based on recruitment task.
 
+## Motivation
+The aim of thr project is recognition diseases of apple leaves. Based on apple leaf photos we have tried accurately assess its health. We have four types of categories corresponding to different leaves like  healthy, those which are infected with apple rust, apple scab and with more than one disease. In our analysis we have build model to distinguish between leaves which are healthy from those with diseases and we used Convolutional Neural Networks algorithm to get more accurate predictions. 
+
 ## Technologies
 
 The project is created with:
