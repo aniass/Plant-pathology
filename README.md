@@ -21,5 +21,9 @@ The project is created with:
 - libraries: tensorflow, keras, scikit-learn, pandas, numpy, seaborn, pillow, OpenCV, imbalanced-learn.
 
 **Running the project:**
-
+ 
 To run this project use Jupyter Notebook or Google Colab.
+
+### References:
+- [Image Classification Model using Python and Keras](https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/)
+- [How to Train MobileNetV2 On a Custom Dataset](https://blog.roboflow.com/how-to-train-mobilenetv2-on-a-custom-dataset/)
